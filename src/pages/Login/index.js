@@ -244,6 +244,7 @@ const Login = () => {
 
     return (
         <>
+        
             <img src={patern} className='loginPatern' />
             <section className="loginSection">
                 <div className="loginBox">
